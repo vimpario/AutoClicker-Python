@@ -21,3 +21,5 @@ num_clicks = 50
 interval = 1
 
 auto_click(num_clicks, interval)
+
+print("For commit")
